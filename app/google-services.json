@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41548031640",
+    "project_id": "expense-revenue-tracker",
+    "storage_bucket": "expense-revenue-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41548031640:android:ffb317f99c201ad23e12ed",
+        "android_client_info": {
+          "package_name": "com.example.expensetrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41548031640-o0rnk6h6rl22d3b750da5r75na84faoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensetrackerapp",
+            "certificate_hash": "f265a53754e42c3c51444d1c279d5e9495b610af"
+          }
+        },
+        {
+          "client_id": "41548031640-tdrts1ns786c88sekqm5d8ti2ion59es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8CYuBhc71f9tGjMGbURkYKRWYEUDp5GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41548031640-tdrts1ns786c88sekqm5d8ti2ion59es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
