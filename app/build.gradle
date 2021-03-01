@@ -13,6 +13,8 @@ android {
         versionCode 1
         versionName "1.0"
 
+        multiDexEnabled true
+
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -41,13 +43,14 @@ dependencies {
     // Declare the dependencies for any other desired Firebase products
     // For example, declare the dependencies for Firebase Authentication and Cloud Firestore
     implementation 'com.google.firebase:firebase-auth:10.0.1'
-    implementation 'com.google.firebase:firebase-database:10.0.1'
-    implementation 'com.google.firebase:firebase-core:10.0.1'
-    implementation 'com.google.firebase:firebase-client-android:2.5.2'
-    implementation 'com.google.firebase:firebase-database:10.0.1'
+
+    //multidex
+    implementation 'com.android.support:multidex:1.0.3'
 
 
-    implementation 'com.androidx.support:cardview-v7:26.+'
+
+
+
 
 
 
